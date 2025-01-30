@@ -1,6 +1,7 @@
 # Star_Clock2.0
 
-Ideation: A clock that has 12 LED's for hour and 12 LED's for minute. <br>
+Ideation: <br>
+A clock that has 12 LED's for hour and 12 LED's for minute. <br>
 Potential expansion: add speakers/sound element for hour chime
 
 Parts: <br>
